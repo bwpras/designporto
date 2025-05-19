@@ -16,7 +16,7 @@ This project involves the design and structural analysis of a small fixed-wing U
 
 ## 🖼️ Preview
 
-![UAV Design](../../assets/uav.png)
+![UAV Design](../assets/uav.png)
 
 ## 📁 Files Included
 
