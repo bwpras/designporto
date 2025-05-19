@@ -45,22 +45,22 @@ The structural configuration adopted a **multi-spar** layout due to its advantag
 ## 🖼️ Visual Previews
 
 <p align="center">
-  <img src="../../assets/planform.png" alt="Planform View" width="400"/><br>
+  <img src="../assets/planform.png" alt="Planform View" width="400"/><br>
   <em>Figure 1: Wing planform with internal multi-spar layout</em>
 </p>
 
 <p align="center">
-  <img src="../../assets/inner.png" alt="Wing Structure" width="400"/><br>
+  <img src="../assets/inner.png" alt="Wing Structure" width="400"/><br>
   <em>Figure 2: Internal composite rib-spar-skin arrangement</em>
 </p>
 
 <p align="center">
-  <img src="../../assets/top.png" alt="CAD View" width="400"/><br>
+  <img src="../assets/top.png" alt="CAD View" width="400"/><br>
   <em>Figure 3: Full 3D model with skin overlay</em>
 </p>
 
 <p align="center">
-  <img src="../../assets/stressanalysis.png" alt="Stress Analysis" width="400"/><br>
+  <img src="../assets/stressanalysis.png" alt="Stress Analysis" width="400"/><br>
   <em>Figure 4: FEA stress and failure index result (Patran/Nastran)</em>
 </p>
 
