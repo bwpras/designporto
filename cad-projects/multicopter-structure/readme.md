@@ -14,9 +14,13 @@ This project presents a frame design for a heavy-lift multi-rotor drone. The fra
 
 ## 🖼️ Preview
 
-![Multicopter Frame](../../assets/multicopter.png)
+![Multicopter Frame](../assets/multicopter.jpg)
+<p align="center">
+  <em>Figure 1: 3D model of a multicopter.</em>
+</p>
 
-## 📁 Files Included
+![Multicopter Frame](../assets/Quadcopter_basic.jpg)
+<p align="center">
+  <em>Figure 2: Three view drawing of multicopter.</em>
+</p>
 
-- `exploded_view.png`
-- Sketches and dimension drawings
