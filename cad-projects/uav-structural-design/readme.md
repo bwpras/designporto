@@ -23,7 +23,7 @@ This project involves the design and structural analysis of a small fixed-wing U
   <em>Figure 1: 3D model of a fixed-wing UAV - last iteration.</em>
 </p>
 
-![UAV Design](../assets/assy.png)
+![UAV Design](../assets/asssy.png)
 <p align="center">
   <img src="../assets/uav.jpg" alt="UAV Design" width="400"/>
   <br>
