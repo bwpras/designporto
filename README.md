@@ -1,7 +1,7 @@
-# ✈️ Design Portfolio: CAD Projects in Aerospace Structures
+# ✈️ Design Portfolio: CAD and Structural Analysis Projects
 
 Welcome to my design portfolio repository!  
-This space showcases some of the structural design projects I’ve completed using CAD tools such as Catia, SolidWorks, and Fusion 360, primarily focused on drone or UAV systems.
+This space showcases some of the structural design projects I’ve completed using CAD tools such as Catia, SolidWorks, and Fusion 360 primarily focused on aircraft, drone, or UAV systems.
 
 ---
 
@@ -30,15 +30,14 @@ This space showcases some of the structural design projects I’ve completed usi
 ---
 
 ### 🪽 3. Structural Design of an Aircraft Wing
-- **Objective**: Detailed design of an aircraft wing structure with internal support.
-- **CAD Tools**: CATIA, SolidWorks
+- **Objective**: Detailed design and structural analysis of multi-spar wing  
+- **CAD Tools**: CATIA
+- **FEM Tools**: MSC Patran/Nastran
 - **Highlights**:
-  - Rib and spar distribution analysis
-  - Load distribution simulation (basic FEA)
+  - Rib and spar distribution
+  - Load distribution simulation (Static FEA)
   - Aerofoil-based cross-sections
 - 📂 Folder: [`/cad-projects/aircraft-wing-design`](./cad-projects/aircraft-wing-design)
 
 ---
-
-## 📁 Repository Structure
 
