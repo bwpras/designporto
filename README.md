@@ -30,7 +30,8 @@ This space showcases some of the structural design projects I’ve completed usi
 ---
 
 ### 🪽 3. Structural Design of an Aircraft Wing
-- **Objective**: Detailed design and structural analysis of multi-spar wing  
+- **Objective**: Detailed design and structural analysis of multi-spar wing
+- **Purpose**: Part of bachelor thesis work in 2018. 
 - **CAD Tools**: CATIA
 - **FEM Tools**: MSC Patran/Nastran
 - **Highlights**:
