@@ -1,7 +1,7 @@
 # ✈️ Design Portfolio: CAD and Structural Analysis Projects
 
-Welcome to my design portfolio repository!  
-This space showcases some of the structural design projects I’ve completed using CAD tools such as Catia, SolidWorks, and Fusion 360 primarily focused on aircraft, drone, or UAV systems.
+Welcome to repository!  
+This space showcases some of the structural design and analysis projects I have completed using CAD tools such as Catia or SolidWorks and FEA tools such as Nastran and Ansys, primarily focused on aircraft, drone, or UAV systems.
 
 ---
 
